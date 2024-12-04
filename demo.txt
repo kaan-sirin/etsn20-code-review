@@ -1,0 +1,6 @@
+The cat is on the roof.
+The dog is in the garden.
+Cats and dogs are common pets.
+There is a category for every animal.
+I love programming in Python.
+Some cats are very playful.
