@@ -4,3 +4,6 @@ Cats and dogs are common pets.
 There is a category for every animal.
 I love programming in Python.
 Some cats are very playful.
+The catalog contains many interesting books.
+MY FRIEND OWNS A BLACK CAT!
+There are scattered dots on the page.
